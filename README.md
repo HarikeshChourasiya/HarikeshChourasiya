@@ -24,6 +24,33 @@ https://www.pfsense.org/download/
 ###### Step 2 - Create a new virtual machine : Use ISO image and Click on browser
 ![image](https://github.com/HarikeshChourasiya/HarikeshChourasiya/assets/168734670/0bdacbc8-f332-48ea-b8c1-917d4cfcbd7a)
 
+###### Step 3 - select ISO file
+![image](https://github.com/HarikeshChourasiya/HarikeshChourasiya/assets/168734670/4927ca8e-677d-4990-ab27-eaa5bc02ddb8)
+
+###### Step 4 - Choose Memory and CPU setting
+![image](https://github.com/HarikeshChourasiya/HarikeshChourasiya/assets/168734670/a4447948-bed6-489b-8480-9bd7bd54667a)
+
+###### Step 5 - Click on Enable storage for this virtual machine
+![image](https://github.com/HarikeshChourasiya/HarikeshChourasiya/assets/168734670/50b023eb-6450-4867-b6fa-2dd1920c5232)
+
+###### Step 6  Enter the Name : pfSense, Then Click on FInish. 
+![image](https://github.com/HarikeshChourasiya/HarikeshChourasiya/assets/168734670/ba6db362-404e-421d-a4ee-0e358a82af46)
+
+###### Step 7 Network source : Virtual network Bridge device.. 
+Device module : e1000
+![image](https://github.com/HarikeshChourasiya/HarikeshChourasiya/assets/168734670/083f605a-42f0-4813-86ec-85b005d3f6dc)
+
+######Step 8
+Click on Add hardware and then Click on Network
+Network source : Virtual network 'default' :WAN
+MAC address : it will be default
+Device module : e1000 or according to you select anyone.
+
+
+
+
+
+
 
 
 
